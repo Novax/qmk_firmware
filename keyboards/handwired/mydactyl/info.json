@@ -81,7 +81,7 @@
     }
   },
     "usb": {
-        "vid": "0xFEED",
+        "vid": "0xFEEF",
         "pid": "0x3060",
         "device_version": "0.0.1"
     },

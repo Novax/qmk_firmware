@@ -50,12 +50,18 @@
         "pid": "0x3060",
         "device_version": "0.0.1"
     },
-    "matrix_pins": {
-      "cols": ["A5", "A4", "A3", "A2", "A1", "A0"],
+    "right": {
+     "cols": ["A5", "A4", "A3", "A2", "A1", "A0"],
       "rows": ["B7", "B3", "B4", "B5", "B6"]
+  },
+    "matrix_pins": {
+
+      "cols": ["A6", "A1", "A2", "A3", "A4", "A5"],
+      "rows": ["B6", "B5", "B4", "B3", "A13"]
     },
     "diode_direction": "ROW2COL",
     "split": {
       "enabled": true
     }
+
 }

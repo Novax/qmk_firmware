@@ -569,7 +569,7 @@
       }
     },
     "main": "right",
-    "transport": { "protocol": "serial_usart"},
+    "transport": { "protocol": "serial"},
     "usb_detect": { "enabled": true}
   }
 }

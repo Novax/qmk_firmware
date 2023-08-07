@@ -567,6 +567,8 @@
         "cols": [ "A5", "A4", "A3", "A2", "A1", "A0" ],
         "rows": [ "B7", "B3", "B4", "B5", "B6" ]
       }
-    }
+    },
+    "main": "right",
+    "transport": { "protocol": "serial_usart"}
   }
 }
